@@ -53,6 +53,8 @@ I'm a career, presales-focused solutions architect / systems engineer focused on
 - **Security** - Docker Scout, Let's Encrypt/SSL management
 
 ### Infrastructure & Tools
+- **VMware Datacenter Infrastructure** - VMware ESXi / vSphere / VMware Cloud Foundation, VMware vSAN, VMC on AWS
+- **Nutanix Datacenter Infrastructure** - Nutanix Cloud Infrastructure, Nutanix Unified Storage, Nutanix Cloud Clusters
 - **Web Servers** - nginx (reverse proxy, load balancing)
 - **Databases** - PostgreSQL, database migrations
 - **Version Control** - Git, GitHub
