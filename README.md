@@ -133,7 +133,6 @@ Raspberry Pi k3s cluster running production services with SSL and reverse proxy.
 - nginx reverse proxy with HTTP/2, WebSocket support
 - Automated certificate management and renewal
 - Production deployment on 4-node Raspberry Pi cluster
-- Public demo: [books.occasional-it.com](https://books.occasional-it.com)
 
 **Tech:** Docker • k3s • nginx • Raspberry Pi • Let's Encrypt
 
