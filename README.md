@@ -1,10 +1,8 @@
 <div align="center">
 
-# Tom Twyman (@fr0gger03)
+![Header](./assets/header.svg)
 
-**Solutions Architect | Presales Engineer | Public Speaker | Cloud Infrastructure | Python Specialist**
-
-<em>Building scalable applications and automating infrastructure with Python, Docker, and Kubernetes</em>
+### @fr0gger03
 
 [![Blog](https://img.shields.io/badge/📝_Blog-occasional--it.com-006699?style=flat-square)](https://www.occasional-it.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tomtwyman)
