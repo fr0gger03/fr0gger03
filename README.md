@@ -62,7 +62,7 @@ I'm a career, presales-focused solutions architect / systems engineer focused on
 - **Monitoring** - Datadog integration
 - **Hardware** - Raspberry Pi cluster with k3s
 
-### 📜 Certifications
+### 📜 Industry Certifications
 - [View all my badges on Credly](https://credly.com/users/tom-twyman)
 
 ---
