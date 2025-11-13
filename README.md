@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/header.svg)
+<img src="https://raw.githubusercontent.com/fr0gger03/fr0gger03/main/assets/header.svg" alt="Tom Twyman - Solutions Architect" width="100%"/>
 
 ### @fr0gger03
 
