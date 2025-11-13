@@ -4,8 +4,8 @@
 
 ### @fr0gger03
 
-[![Blog](https://img.shields.io/badge/📝_Blog-occasional--it.com-006699?style=flat-square)](https://www.occasional-it.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tomtwyman)
+[![Blog](https://img.shields.io/badge/📝_Blog-occasional--it.com-006699?style=flat-square)](https://www.occasional-it.com)
 
 </div>
 
@@ -59,6 +59,9 @@ I'm a career, presales-focused solutions architect / systems engineer focused on
 - **Testing** - pytest, pytest-flask, testcontainers
 - **Monitoring** - Datadog integration
 - **Hardware** - Raspberry Pi cluster with k3s
+
+### 📜 Certifications
+- [View all my badges on Credly](https://credly.com/users/your-username)
 
 ---
 
@@ -157,14 +160,11 @@ Raspberry Pi k3s cluster running production services with SSL and reverse proxy.
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.occasional-it.com">
-    <img src="https://img.shields.io/badge/Blog-Occasional_IT-006699?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
-  </a>
   <a href="https://www.linkedin.com/in/tomtwyman">
     <img src="https://img.shields.io/badge/LinkedIn-Tom_Twyman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:&#116;&#111;&#109;&#064;&#111;&#99;&#99;&#097;&#115;&#105;&#111;&#110;&#097;&#108;&#045;&#105;&#116;&#046;&#099;&#111;&#109;">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-004366?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.occasional-it.com">
+    <img src="https://img.shields.io/badge/Blog-Occasional_IT-006699?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
   </a>
 </div>
 
