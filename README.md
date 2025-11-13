@@ -1,22 +1,37 @@
+<div align="center">
+
 # Tom Twyman (@fr0gger03)
 
-**Full-Stack Developer | DevOps Engineer | Cloud Infrastructure | Python Specialist**
+**Solutions Architect | Presales Engineer | Public Speaker | Cloud Infrastructure | Python Specialist**
 
-> Building scalable applications and automating infrastructure with Python, Docker, and Kubernetes
+<em>Building scalable applications and automating infrastructure with Python, Docker, and Kubernetes</em>
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-3.1-green?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![k3s](https://img.shields.io/badge/k3s-Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://k3s.io/)
+[![Blog](https://img.shields.io/badge/📝_Blog-occasional--it.com-006699?style=flat-square)](https://www.occasional-it.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tomtwyman)
+[![Email](https://img.shields.io/badge/Email-Contact-004366?style=flat-square&logo=gmail)](mailto:tom@occasional-it.com)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-006699?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-3.1-22aadd?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-004366?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-Lambda-0693e3?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-006699?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![k3s](https://img.shields.io/badge/k3s-Kubernetes-22aadd?style=flat-square&logo=kubernetes&logoColor=white)](https://k3s.io/)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a developer focused on building practical solutions that solve real problems. My work spans full-stack web applications, cloud automation, and self-hosted infrastructure. I enjoy working with Python, containerization, and building tools that make development workflows more efficient.
+I'm a career, presales-focused solutions architect / systems engineer focused on building practical solutions that solve real problems. My work spans full-stack web applications, cloud automation, and self-hosted infrastructure. I am a hobbyist and a technologist - I enjoy working with Python, containerization, and building tools that make infrastructure management and development workflows more fun and efficient.
 
+- 🔧 python-based CLI tools for extending infrastructure management
 - 🔧 Building production-ready Flask applications with comprehensive test coverage
 - 🐳 Containerizing everything with Docker multi-stage builds
 - ☁️ Automating AWS Lambda development and VMware Cloud workflows
@@ -143,16 +158,38 @@ Raspberry Pi k3s cluster running production services with SSL and reverse proxy.
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-Feel free to explore my repositories and reach out if you'd like to collaborate on:
-- Python web applications
-- Docker containerization
-- Infrastructure automation
-- Self-hosted solutions
+<div align="center">
+  <a href="https://www.occasional-it.com">
+    <img src="https://img.shields.io/badge/Blog-Occasional_IT-006699?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://www.linkedin.com/in/tomtwyman">
+    <img src="https://img.shields.io/badge/LinkedIn-Tom_Twyman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:&#116;&#111;&#109;&#064;&#111;&#99;&#99;&#097;&#115;&#105;&#111;&#110;&#097;&#108;&#045;&#105;&#116;&#046;&#099;&#111;&#109;">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-004366?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<div align="center" style="font-family: 'Montserrat', sans-serif;">
+  <h3 style="color: #006699;">🚀 Open to Collaborate On</h3>
+  <p>
+    <strong>Python Web Applications</strong> • <strong>Docker & Containerization</strong><br>
+    <strong>Infrastructure Automation</strong> • <strong>Self-Hosted Solutions</strong><br>
+    <strong>Cloud Architecture</strong> • <strong>DevOps Tooling</strong>
+  </p>
+</div>
 
 ---
 
-<p align="center">
-  <i>💡 Always learning, always building</i>
-</p>
+<div align="center">
+  <p>
+    <em style="color: #006699; font-size: 1.1em;">💡 Always learning, always building</em>
+  </p>
+  <p style="color: #1e3846;">
+    <sub>Check out my <a href="https://www.occasional-it.com" style="color: #22aadd;">blog</a> for technical musings and industry insights</sub>
+  </p>
+</div>
