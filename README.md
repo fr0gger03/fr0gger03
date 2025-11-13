@@ -61,7 +61,7 @@ I'm a career, presales-focused solutions architect / systems engineer focused on
 - **Hardware** - Raspberry Pi cluster with k3s
 
 ### 📜 Certifications
-- [View all my badges on Credly](https://credly.com/users/your-username)
+- [View all my badges on Credly](https://credly.com/users/tom-twyman)
 
 ---
 
