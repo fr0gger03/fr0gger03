@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a career, presales-focused solutions architect / systems engineer focused on building practical solutions that solve real problems. My work spans full-stack web applications, cloud automation, and self-hosted infrastructure. I am a hobbyist and a technologist - I enjoy working with Python, containerization, and building tools that make infrastructure management and development workflows more fun and efficient.
+I'm a career, presales-focused solutions architect / systems engineer focused on building practical solutions that solve real problems. My work spans full-stack web applications, cloud automation, and self-hosted infrastructure. Though I don't consider myself a developer, I am an avid hobbyist and a technologist - I enjoy working with Python, containerization, and building tools that make infrastructure management and development workflows more fun and efficient.
 
 - 🔧 python-based CLI tools for extending infrastructure management
 - 🔧 Building production-ready Flask applications with comprehensive test coverage
