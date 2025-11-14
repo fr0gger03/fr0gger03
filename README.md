@@ -109,6 +109,10 @@ Python CLI tools for VMware Cloud on AWS automation and management.
 - **[Python Client for VMC](https://github.com/fr0gger03/python-client-for-vmware-cloud-on-aws)** - SDDC automation and management
 - **[SDDC Import/Export](https://github.com/fr0gger03/sddc-import-export-for-vmware-cloud-on-aws)** - Backup and restore network/security configurations
 
+**Highlights**
+- Comprehensive, multi-level command/argument structure with argparse
+- Use of JSON payloads to fetch / write data to cloud-based REST APIs
+
 **Use Case:** Enable VMware and partner presales teams to script and automate cloud sizing and SDDC management.
 
 **Tech:** Python • VMware Cloud APIs • CLI development
@@ -125,6 +129,16 @@ Demonstrations of Docker containerization best practices and security scanning.
 - Security best practices for production containers
 
 **Tech:** Docker • Dockerfile • Docker Scout
+
+---
+
+### 🐳 [MS Office Powerpoint Automation ](https://github.com/fr0gger03/skurge-pptx)
+
+Using the python-pptx library to automate creation of Powerpoint slides using a template.
+
+**Highlights**
+- JSON paylod with content in table format
+- Feeding content into table / slide objects with python-pptx
 
 ---
 
