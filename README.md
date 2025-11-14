@@ -66,6 +66,7 @@ I'm a career, presales-focused solutions architect / systems engineer focused on
 - [View all my badges on Credly](https://credly.com/users/tom-twyman)- Nutanix, VMware, Dell, EMC, Cisco
 - [View all my Microsoft certifications- expired](https://learn.microsoft.com/en-us/users/thomastwyman-0902/transcript/d9kr0sw6jl4wpz0?tab=credentials-tab&source=docs) - MCP, MCT, MCSAx2, MCSEx2
 - Expired Citrix Certifications - CCAx3, CCSPx2, CCEA, CCIA, CCI
+- [Photographic evidence for all the old stuff!](https://photos.app.goo.gl/R4ZAnm2dsoE91cuw5)
 
 ---
 
